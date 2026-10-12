@@ -240,6 +240,22 @@ A healthcare analytics project connecting data preparation, structured summaries
 
 ---
 
+## 📚 Academic Research
+
+### 🎓 Master's Dissertation — Finance
+
+Completed dissertation for my **Master of Commerce in Finance at Great Zimbabwe University**.
+
+[📖 View Master's Dissertation](https://github.com/gerald-hlabiso/business-analytics-portfolio/tree/main/academic-research/masters-dissertation)
+
+### 🎓 Undergraduate Dissertation — Business Management
+
+Completed dissertation for my **Bachelor of Commerce in Business Management at Midlands State University**.
+
+[📖 View Undergraduate Dissertation](https://github.com/gerald-hlabiso/business-analytics-portfolio/tree/main/academic-research/undergraduate-dissertation)
+
+---
+
 ## 🔬 Current Research
 
 ### Drift-Aware Fraud-Risk Decision-Support System
